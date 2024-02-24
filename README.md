@@ -1,6 +1,5 @@
-"# Jwt-Bcrypt-Login" 
+Note-Taking Application using sequelise , express in nodejs environment
+  
 
 
 
-
-Project Includes Use OF Jwt , BCrypt, Sequelize  and Postman is used for API Testing.
